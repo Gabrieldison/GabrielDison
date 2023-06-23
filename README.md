@@ -3,7 +3,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Gabriel%20Dison-008881?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-dison/)](https://www.linkedin.com/in/gabriel-dison/) 
 [![Gmail Badge](https://img.shields.io/badge/-gabriel.disonreis@gmail.com-008881?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gabriel.disonreis@gmail.com)](mailto:gabriel.disonreis@gmail.com)
 
-Backend Developer and NodeJS Enthusiast
+Backend Developer and NodeJS Specialist
 
 As a back-end developer, my biggest motivation is to build services and applications that have a real impact on people's lives.
 
